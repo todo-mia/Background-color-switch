@@ -1,0 +1,115 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    padding: 10px;
+    background-color: rgb(57, 55, 55);
+}
+
+a:link {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover,
+a:visited {
+    color: black;
+}
+
+.btn {
+    padding: 5px 55px;
+    border-radius: 10px;
+    background-color: rgb(121, 119, 119);
+}
+
+.head {
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+    margin: 50px;
+}
+
+.color {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+
+.button {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#orange {
+    background-color: orange;
+}
+
+#pink {
+    background-color: pink;
+}
+
+#aqua {
+    background-color: aqua;
+}
+
+#palevioletred {
+    background-color: palevioletred;
+}
+
+#green {
+    background-color: green;
+}
+
+#gold {
+    background-color: gold;
+}
+
+#brown {
+    background-color: brown;
+}
+
+#blueviolet {
+    background-color: blueviolet;
+}
+
+h1 {
+    margin: 30px;
+    text-align: center;
+    padding: 40px;
+    padding-bottom: 0px;
+    line-height: 60px;
+    font-size: 40px;
+    color: rgb(245, 245, 245);
+}
+
+#xtra {
+    margin: 0px;
+    padding: 0px;
+}
